@@ -1,3 +1,7 @@
+/*
+THIS IS A COMPREHENSIVE ANALYSIS OF COVID DATA USING SQL
+*/
+
 --Exploring the Death and Vaccination tables
 SELECT *
 FROM NewPortfolio.dbo.Death
